@@ -1,0 +1,43 @@
+body{
+    background-color: #4f4f4f;
+    color: #fff;
+    margin: 25px;
+}
+.rodape {
+    width: calc(100% - 20px);
+    background-color: black;
+    padding: 10px;
+    margin: 0px;
+    text-align: center;
+}
+figure{
+    margin: 25px;
+}
+.tabela, th, td{
+    border-collapse: collapse; 
+    padding: 10px;
+    text-align: left;
+    color: yellow;
+}
+.fem-mas {
+    margin: 10px;
+    padding: 2px;
+    text-align: left;
+    font-size: medium;
+    color: yellow;
+  }
+.chama{
+    display: table-cell;
+    float: right;
+}
+
+.rodape {
+    background-color: rgba(83, 83, 19, 0.74);
+    padding: 15px;
+    text-align: center;
+    color: black;
+}
+
+.rodape p {
+    margin: 5px 0;
+}
